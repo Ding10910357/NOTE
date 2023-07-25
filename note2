@@ -1,0 +1,19 @@
+DAY5
+[Visual Studio Code ( VS Code) 安裝教學(使用Python) - 免費資源社群](https://www.citerp.com.tw/citwp2/2021/12/22/vs-code_python_01/)
+
+VS CODE
+
+![1.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/683599d2-2252-46c6-93a7-ad802916d031/1.png)
+
+加插件 外掛
+
+![2.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3580bd6c-ef19-48a7-85e0-375571fa110f/2.png)
+
+![3.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/77e6f2c0-a4be-4da0-93e3-5750826b1461/3.png)
+
+要安裝PYTHON
+
+![5.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e373e845-0301-42af-90c8-321eaf6c56b2/5.png)
+https://i.imgur.com/jYwmmMD.png
+
+https://i.imgur.com/B7u2bXq.png
